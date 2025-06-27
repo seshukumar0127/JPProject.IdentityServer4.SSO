@@ -147,11 +147,11 @@ Check [docs](https://jp-project.readthedocs.io/en/latest/) to see how to and som
 
 Check below how it was developed.
 
-Written in ASP.NET Core 3.1 and Angular 8.
+- Written in .NET 9 and Angular 19.
 
-- Angular 8
+- Angular 19
 - Rich UI interface
-- ASP.NET Core 3.0
+ - .NET 9.0
 - ASP.NET MVC Core 
 - ASP.NET WebApi Core
 - ASP.NET Identity Core
@@ -199,9 +199,9 @@ Do you love it? give us a Star!
 
 ## Development Scenario
 
-Jp Project is built against ASP.NET Core 3.1.
+Jp Project is built against .NET 9.
 
-* [Install](https://www.microsoft.com/net/download/core#/current) the latest .NET Core 3.10 SDK
+* [Install](https://www.microsoft.com/net/download/core#/current) the latest .NET 9 SDK
 
 `src/JPProject.SSO.sln` Contains SSO and API
 
@@ -244,7 +244,7 @@ There are several ways we can help you out.
 
 ## 3.0.1
 
-1. ASP.NET Core 3.0 support
+1. .NET 9 support
 2. Separated repositories, for better management. Improving tests, integration tests. And to support more scenarios.
 
 ## v1.4.5
